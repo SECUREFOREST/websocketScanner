@@ -1,2 +1,2 @@
 # websocketScanner
-Clientside Websocket Internal Port Scanner PoC 
+Client-side Websocket Internal Port Scanner PoC 
